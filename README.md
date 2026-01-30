@@ -1,7 +1,7 @@
 <h1 align="center">Jonathan DeBarro</h1>
 <h3 align="center">Associate SWE @ Capital One, McLean, VA</h3>
 
-- 🌱 I’m currently learning **C, C++**
+- 🌱 Working on some projects
 
 - 🐟 Interested in **Database Internals, Low-Level Development**
 
